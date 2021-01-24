@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>color.scheme.GitHub Dark Theme</id>
   <name>GitHub Dark Theme Color Scheme</name>
-  <version>1.0</version>
+  <version>1..03</version>
   <vendor email="engrbugs@gmail.com" url="https://herbysio.ca/">engrbugs</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Initial
+      
     ]]>
   </change-notes>
 
