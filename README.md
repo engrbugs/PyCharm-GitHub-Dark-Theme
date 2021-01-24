@@ -1,7 +1,7 @@
 # GitHub Dark Theme for PyCharm
 ### Screenshot:
 
-![Sample](\\readme-images\\pycharm.png) Sample colours.
+![Sample](https://raw.githubusercontent.com/engrbugs/PyCharm-GitHub-Dark-Theme/main/readme-images/pycharm.png) Sample colours.
 
 ## Download 
 To use this theme download the JAR file only (right click and save as).
