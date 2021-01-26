@@ -12,7 +12,8 @@ To use this theme download the JAR file only (right click and save as).
 You may download 7zip
 
 ## How to Install:
-To be continued...
+To be follow...
+</br>
 </br>
 It looks best when you combine this with [Twitch Dark Theme](https://plugins.jetbrains.com/plugin/15391-twitch-dark-theme) (I am currently using) or [One Dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme). I am looking for a user interface theme with a color #1F1F1F navigation side bar with a simple blue highlight.
 
